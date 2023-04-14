@@ -32,8 +32,3 @@ public class Individual1 extends Customer1 {
                       super.toString() + " phone Number: " + phoneNumber );
     }
 }
-/* 
-ندى عبدالملك الخرجي 
-ميرال محمد الربيعان
-بنان فهد البريدي
-*/
