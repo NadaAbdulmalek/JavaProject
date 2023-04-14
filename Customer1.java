@@ -58,8 +58,3 @@ public abstract class Customer1 {
                 "Id:" + id + " Name:" + name + " Address:" + address ); 
     } 
 }
-/* 
-ندى عبدالملك الخرجي 
-ميرال محمد الربيعان
-بنان فهد البريدي
-*/
