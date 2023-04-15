@@ -1,2 +1,2 @@
-# NadaAbdulmalek.JavaProject
+# JavaProject
 Project in the second level
